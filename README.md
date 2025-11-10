@@ -9,14 +9,20 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Cartoon coder"
-    width="350"
-    style="border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.3);"
-  />
-</p>
+<!-- 🧑‍💻 Coding Animations Section (updated monkey GIF) -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+           alt="Cartoon coder" width="350"/>
+    </td>
+    <td align="center">
+      <!-- Replaced monkey GIF (working link) -->
+      <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" 
+           alt="Monkey coding" width="350"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
